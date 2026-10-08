@@ -1,9 +1,9 @@
 .pages ul {
   list-style-type: none;
   margin: 0;
-  padding: 0;
+  padding-left: 50px;
+
   overflow: hidden;
-  background-color:indianred;
   position:fixed;
   top: 0;
   width: 100%;
@@ -17,7 +17,7 @@
   display: block;
   color: white;
   text-align: center;
-  padding: 14px 16px;
+  padding: 14px 70px;
   text-decoration: none;
 }
 
