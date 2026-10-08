@@ -1,0 +1,35 @@
+.pages ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color:indianred;
+  position:fixed;
+  top: 0;
+  width: 100%;
+}
+
+.pages ul li {
+    float: left;
+}
+
+.pages ul li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+.pages ul li a:hover {
+  background-color: #111111;
+}
+
+body{
+    padding-top: 50px;
+    background-color:#1d2a4d ;
+}
+h1{
+  color:azure;
+  text-align: center;
+}
